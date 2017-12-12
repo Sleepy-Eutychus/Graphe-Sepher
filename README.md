@@ -1,6 +1,6 @@
 # Γραφή סֵ֫פֶר (Graphé Sepher)
 
-* A Plug-in for WordPress Web Sites to Install Bibles Encoded in a Digital Format like OSIS
+A plug-in for WordPress Web Sites to install Bibles encoded in a digital format like OSIS.
 
 ## Appropriate Features
 
