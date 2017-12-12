@@ -1,7 +1,7 @@
 # Γραφή סֵ֫פֶר (Graphé Sepher)
 A Plug-in for WordPress Web Sites to Install Bibles Encoded in a Digital Format like OSIS
 ## What Should It Be Called?
-If you can, please call it "Γραφή סֵ֫פֶר" correctly.
+If you please, call it "Γραφή סֵ֫פֶר" correctly.
 "Γραφή" means a writing, passage of scripture or the scriptures in biblical Greek, and "סֵ֫פֶר" means a missive, document, writing or book in biblical Hebrew. "Γραφή סֵ֫פֶר" is named after the Bible of its purpose.
 Instead, "Graphé Sepher" is more readable for most people.
 If your charset dosen't have "é" called "LATIN SMALL LETTER E WITH ACUTE" (U+00E9), "Graphe Sepher" is also good.
