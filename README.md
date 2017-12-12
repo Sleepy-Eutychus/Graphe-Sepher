@@ -15,11 +15,11 @@ If you please, call it "Γραφή סֵ֫פֶר" correctly.
 
 "Γραφή" means a writing, passage of scripture or the scriptures in biblical Greek, and "סֵ֫פֶר" means a missive, document, writing or book in biblical Hebrew. "Γραφή סֵ֫פֶר" is named after the Bible of its purpose.
 
-Instead, "Graphé Sepher" is more readable for most people.
+Instead, "Graphé Sepher" must be more readable for most people in the modern global community.
 
-If your charset dosen't have "é" called "LATIN SMALL LETTER E WITH ACUTE" (U+00E9), "Graphe Sepher" may also good.
+If your charset dosen't have "é" called "LATIN SMALL LETTER E WITH ACUTE" (U+00E9), "Graphe Sepher" may be also good.
 
-And, if " " or "space" (U+0020) is disallowed, "Graphe_Sepher", "Graphe-Sepher" or "GrapheSepher" may also acceptable.
+And, if " " or "space" (U+0020) is disallowed, "Graphe_Sepher", "Graphe-Sepher" or "GrapheSepher" may be also acceptable.
 
 If you have to spell it in just only upper case, it may be done this way: "GRAPHE SEPHER", "GRAPHE_SEPHER", "GRAPHE-SEPHER" or "GRAPHESEPHER".
 
