@@ -17,10 +17,10 @@ If you please, call it "Γραφή סֵ֫פֶר" correctly.
 
 Instead, "Graphé Sepher" is more readable for most people.
 
-If your charset dosen't have "é" called "LATIN SMALL LETTER E WITH ACUTE" (U+00E9), "Graphe Sepher" is also good.
+If your charset dosen't have "é" called "LATIN SMALL LETTER E WITH ACUTE" (U+00E9), "Graphe Sepher" may also good.
 
-And, if " " or "space" (U+0020) is disallowed, "Graphe_Sepher", "Graphe-Sepher" or "GrapheSepher" are also acceptable.
+And, if " " or "space" (U+0020) is disallowed, "Graphe_Sepher", "Graphe-Sepher" or "GrapheSepher" may also acceptable.
 
-If you have to spell it in just only upper case, do it this way: "GRAPHE SEPHER", "GRAPHE_SEPHER", "GRAPHE-SEPHER" or "GRAPHESEPHER".
+If you have to spell it in just only upper case, it may be done this way: "GRAPHE SEPHER", "GRAPHE_SEPHER", "GRAPHE-SEPHER" or "GRAPHESEPHER".
 
 And if lower case: "graphe sepher", "graphe_sepher", "graphe-sepher" or "graphesepher".
